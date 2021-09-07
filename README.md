@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaroshZDandoti
-- 👀 I’m interested in making Games and Artificial Intelligence
-- 🌱 I’m currently learning Advanced ML and AR Development
+- 👋 Hi, I’m Sarosh Dandoti
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Natural Language Processing.
 - 💞️ I’m looking to collaborate on Games and Cool Programming projects!
 - 📫 How to reach me ... Drop me a mail at saroshdandoti@gmail.com
 - 💻Aspiring Data Scientist! 
