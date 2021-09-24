@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarosh Dandoti
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Natural Language Processing.
 - 💞️ I’m looking to collaborate on Games and Cool Programming projects!
 - 📫 How to reach me ... Drop me a mail at saroshdandoti@gmail.com
