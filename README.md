@@ -6,6 +6,9 @@
 - 💻Aspiring Data Scientist! 
 
 
+## My Skills
+https://img.shields.io/badge/Tableau-Analysis-orange  https://img.shields.io/badge/Tableau-Analysis-orange
+
 ![Sarosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaroshZDandoti&show_icons=true&theme=radical)
 
 
