@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Games and Cool Programming projects!
 - 📫 How to reach me ... Drop me a mail at saroshdandoti@gmail.com
 - 💻Aspiring Data Scientist! 
-![Visitor Count](https://profile-counter.glitch.me/{SaroshZDandoti}/count.svg)
+![](https://komarev.com/ghpvc/?username=SaroshZDandoti)
 
 
 
