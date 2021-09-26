@@ -13,7 +13,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Analysis-orange)
 ![Sql](https://img.shields.io/badge/MySql-DBMS-yellow)
 ![Python](https://img.shields.io/badge/Python-.-green)
-
+![R](https://img.shields.io/badge/R-stats-blue)
 
 ![Sarosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaroshZDandoti&show_icons=true&theme=radical) 
 
