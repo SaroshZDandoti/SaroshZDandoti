@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Games and Cool Programming projects!
 - 📫 How to reach me ... Drop me a mail at saroshdandoti@gmail.com
 - 💻Aspiring Data Scientist! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 
@@ -24,7 +25,6 @@
 </a>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaroshZDandoti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 SaroshZDandoti/SaroshZDandoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
