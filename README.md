@@ -11,7 +11,9 @@
 ## My Skills
 ![Tableau](https://img.shields.io/badge/Tableau-Analysis-orange)
 ![Sql](https://img.shields.io/badge/MySql-DBMS-yellow)
+![Python](https://img.shields.io/badge/Python-.-green)
 
+https://img.shields.io/badge/Python-.-green
 
 ![Sarosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaroshZDandoti&show_icons=true&theme=radical) 
 
