@@ -6,6 +6,8 @@
 - 💻Aspiring Data Scientist! 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 
 <a href="https://github.com/SaroshZDandoti">
