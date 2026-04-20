@@ -22,10 +22,6 @@
 
 
 
-<a href="https://github.com/SaroshZDandoti">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaroshZDandoti&layout=compact&theme=radical" />
-</a>
-
 
 
 <!---
