@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Sarosh Dandoti
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Natural Language Processing.
-- 💞️ I’m looking to collaborate on Games and Cool Programming projects!
+- 👀 I’m interested in Generative AI and Software Development.
+=- 💞️ I’m always looking to collaborate on cool projects!
 - 📫 How to reach me ... Drop me a mail at saroshdandoti@gmail.com
-- 💻Aspiring Data Scientist! 
+- 💻Software Engineer and Game Developer! 
   
 ![](https://komarev.com/ghpvc/?username=SaroshZDandoti)
 
